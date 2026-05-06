@@ -1,3 +1,6 @@
+
+Demonstration Link: [https://www.youtube.com/watch?v=5obBlzcycPk](url)
+
 # Clarity
 
 Clarity is an article credibility analyzer with:
