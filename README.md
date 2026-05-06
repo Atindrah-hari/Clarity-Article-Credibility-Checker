@@ -1,5 +1,5 @@
 
-Demonstration Link: [https://www.youtube.com/watch?v=5obBlzcycPk](url)
+Demonstration Link: [https://www.youtube.com/watch?v=5obBlzcycPk]
 
 # Clarity
 
